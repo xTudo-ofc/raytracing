@@ -1,0 +1,31 @@
+VERSÕES RAYTRACING
+
+versão 1.0 - QUINT raytracing
+
+Inteligência raytracing trabalho de reflexos e luzes
+para adicionar reflexos mais precisos no jogo como
+reflexos de luzes e de objetos imagens etc
+trabalhado com qUINT master.
+
+raytracing - versão 2.0
+
+inteligência raytracing com mais precisão
+nos reflexos luzes e sombras precisas foram
+adicionadas.
+
+english version
+
+RAYTRACING VERSIONS
+
+version 1.0 - QUINT raytracing
+
+Intelligence raytracing work of reflections and lights
+to add more accurate reflections in the game like
+reflections of lights and objects, images, etc.
+worked with qUINT master.
+
+raytracing - version 2.0
+
+raytracing intelligence with more precision
+in the reflections precise lights and shadows were
+added.
